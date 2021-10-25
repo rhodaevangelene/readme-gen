@@ -6,7 +6,7 @@ Command line application to generate a professional README file for a repository
 
 ### Demonstration
 
-View a complete video demonstration of the application: [Professional README Generator Demo](https://www.youtube.com/watch?v=95Te8AvTNcE)
+Demo: [Professional README Generator Demo](https://www.youtube.com/watch?v=95Te8AvTNcE)
 
 ![README-Generator-Demo](./recording.gif)
 
