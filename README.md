@@ -1,6 +1,5 @@
 # Professional README Generator
 
-[How to create a Professional README](./readme-guide.md)
 ## Description
 
 Command line application to generate a professional README file for a repository. The application prompts for the repository and project details and once the details are provided, a README.md file is automatically generated in ./tmp directory.
